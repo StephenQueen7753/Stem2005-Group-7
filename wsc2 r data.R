@@ -36,6 +36,6 @@ dwak <-wheatdata$DW.AS
 hist(dwak)
 shapiro.test(dwak)
 
-
+#donkey kong
 
 
